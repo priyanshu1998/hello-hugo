@@ -1,0 +1,18 @@
+# Hugo generated files
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+
+# Hugo cache
+hugo_cache/
+
+# Temporary files
+.DS_Store
+*~
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.iml
